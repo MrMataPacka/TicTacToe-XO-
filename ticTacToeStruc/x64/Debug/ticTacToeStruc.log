@@ -1,0 +1,6 @@
+﻿  TaTeTi.cpp
+C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\ticTacToeStruc\ticTacToeStruc\TaTeTi.h(2,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "TaTeTi.cpp")
+  
+C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\ticTacToeStruc\ticTacToeStruc\TaTeTi.cpp(49,1): warning C4715: 'TaTeTi_Game::EstadoActual': no todas las rutas de acceso de control devuelven un valor
+  ticTacToeStruc.vcxproj -> C:\Users\Angel\Documents\Curso C\PrimerProgramaCPP\ticTacToeStruc\x64\Debug\ticTacToeStruc.exe
